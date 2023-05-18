@@ -4,7 +4,7 @@
 A project finds the optimal combination of feature engineering techniques and machine learning algorithms to filter SMS spam.
 
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src = "images/title page.png" width = "800">
 
 
 ## Abstract
@@ -17,12 +17,12 @@ Python, Natural Language Processing, ClickUp, JIRA, Project Management
 
 
 ## Data Source
-The dataset is provided by the Linguist List, a major online resource for academic linguistic research.
+The dataset is provided by the *Linguist List*, a major online resource for academic linguistic research.
 http://www.aueb.gr/users/ion/data/lingspam_public.tar.gz
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
 ## Methodology
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img src = "images/SMS Spam Detection Flow Chart.png" width="1000">
 
 
 ## Run Locally
@@ -30,7 +30,7 @@ http://www.aueb.gr/users/ion/data/lingspam_public.tar.gz
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/manyuzhang1996/SMS-Spam-Detection-with-Natural-Language-Processing.git
 ```
 
 ## Contact
